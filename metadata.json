@@ -1,0 +1,5 @@
+{
+  "name": "AI Agent Simulation Hub",
+  "description": "A high-fidelity 3D isometric simulation interface for managing AI tool agents in a virtual workspace, built with Three.js and React.",
+  "requestFramePermissions": []
+}
